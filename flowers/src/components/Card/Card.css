@@ -6,7 +6,8 @@
     margin: 1rem;
     position: relative;
     width: 325px;
-    box-shadow: 0 0 8px #AA4586, 0 0 8px #AA4586;
+    border: 2px solid #B6EEA6;
+    box-shadow: 0 0 8px 3px #AA4586, 0 0 8px 3px #AA4586;
     text-align: left;
   }
   

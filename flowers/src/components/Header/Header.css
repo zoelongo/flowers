@@ -1,16 +1,20 @@
 .header {
+    font-family: 'Lobster', cursive;
     width: 100%;
-    font-size: 2rem;
+    font-size: 3rem;
     color: #AA4586;
     margin-bottom: 10px;
     padding: 30px;
     background: linear-gradient(#B6EEA6, #A9FFCB);
+    border: 8px outset #B6EEA6;
   }
   
   .title {
+    font-family: 'Lobster', cursive;
     float: left;
   }
   
   .scores {
+    font-family: 'Lobster', cursive;
     float: right;
   }
