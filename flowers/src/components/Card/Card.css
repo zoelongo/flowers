@@ -15,6 +15,7 @@
     overflow: hidden;
     text-align: center;
     background:#A4778B;
+    padding-top: 25px;
   }
   .card > .img-container > img {
     width: 60%
